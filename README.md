@@ -1,7 +1,7 @@
-Running EveryDay
+Get Done EveryDay
 ================
 
-> Someone coding everyday, Let's running everyday!
+> code, run, write, cook, ml, and anything you want to do everyday.
 
 # 1. Achievements Show：
 
@@ -15,17 +15,17 @@ When you want to join, Just open an issue like this:
 
 #### title: 
 
-Your Name-Running Everyday-Part N(date-date)
+Your Name-XXX Everyday-Part N(date-date)
 
 #### content: 
 
-- **Goal: ** Description your goal in this month, maybe speed, maybe distance, maybe others you want.
-- **Award: ** When you archive this goal, you can get the award, of course by yourself:smile:
+- **Goal: ** Description your goal in this month.
+- **Award: ** When you archive this goal, you can get the award, of course by yourself :smile:
 - **Punish: ** You should be punished if drop the running task someday.
 
-### (2). Get the day's running done :ok_hand:  
+### (2). Get done someday :ok_hand:  
 
-You have runn and you need take notes:
+You have done and you need take notes:
 
 - **Time: ** some day
 
