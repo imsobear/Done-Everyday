@@ -11,7 +11,7 @@ Someone coding everyday, Let's running everyday!
 
 ### (1). Join me :clap:
 
-When you want join, Just open an issue like this:
+When you want to join, Just open an issue like this:
 
 #### title: 
 
