@@ -1,11 +1,11 @@
 Running EveryDay
 ================
 
-Someone coding everyday, Let's running everyday!
+> Someone coding everyday, Let's running everyday!
 
 # 1. Achievements Show：
 
-- [果同学-Running Everyday-Part One(10.26-11.25)](https://github.com/imsobear/Running-Everyday/issues/1)
+- [小果-Running Everyday-Part One(10.26-11.25)](https://github.com/imsobear/Running-Everyday/issues/1)
 
 # 2. How?
 
@@ -15,7 +15,7 @@ When you want to join, Just open an issue like this:
 
 #### title: 
 
-Your Name-Running Everydar-Part N(date-date)
+Your Name-Running Everyday-Part N(date-date)
 
 #### content: 
 
