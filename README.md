@@ -3,11 +3,11 @@ Running EveryDay
 
 Someone coding everyday, Let's runing everyday!
 
-## 1. Achievements Show：
+# 1. Achievements Show：
 
 - [果同学-Running Everyday-Part One(10.26-11.25)]()
 
-## 2. How?
+# 2. How?
 
 ### 1. Join me:clap:
 
