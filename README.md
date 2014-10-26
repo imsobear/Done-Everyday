@@ -19,7 +19,7 @@ Your Name-Running Everydar-Part N(date-date)
 
 #### content: 
 
-- **Goal: ** Description your goal in this month, maybe speed, maybe distance, maybe others you want.
+- __Goal: __ Description your goal in this month, maybe speed, maybe distance, maybe others you want.
 - **Award: ** When you archive this goal, you can get the award, of course by yourself:smile:
 - **Punish: ** You should be punished if drop the running task someday.
 
