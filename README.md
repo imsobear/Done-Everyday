@@ -7,6 +7,7 @@ Get Done EveryDay
 
 - [小果-Running Everyday-Part One(10.26-11.25)](https://github.com/imsobear/Running-Everyday/issues/1)
 - [冬萌-健身 Everyday-Part One(2014.10.28-2014.11.28)](https://github.com/imsobear/Running-Everyday/issues/2)
+- [婳奕---阅读与压腿---Everyday](https://github.com/imsobear/Running-Everyday/issues/3)
 
 # 2. How?
 
